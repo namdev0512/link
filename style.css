@@ -1,0 +1,21 @@
+body{
+    background-image:url(./R.jpg);
+    
+background-size: cover
+}
+.ac{
+ margin: 100px;
+}
+a{
+    margin: 70px;
+}
+h1{
+    padding-left: 87px;
+}
+.ac:hover{
+    color: rgb(161, 155, 155);
+}
+h1:hover{
+    color:rgb(241, 235, 235);
+    background-color: black;
+}
